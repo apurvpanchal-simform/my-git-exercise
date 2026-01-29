@@ -1,4 +1,4 @@
 def add(a,b):
     return a + b
 
-print(5,10)
+print(f"New values{4,5}")
